@@ -1,5 +1,4 @@
-[dzijkplayer]
-
+﻿
 1.简单的播放器实现
 
 rootView = getLayoutInflater().from(this).inflate(R.layout.simple_player_view_player, null);
@@ -22,9 +21,7 @@ player = new PlayerView(this,rootView)
         })
         .setPlaySource(url)
         .startPlay();
-		
-		
-		
+
 
 2.多种不同的分辨率流的播放器实现
 
@@ -666,4 +663,3 @@ int MEDIA_ERROR_IO = -1004;//IO错误
 int MEDIA_ERROR_MALFORMED = -1007;
 int MEDIA_ERROR_UNSUPPORTED = -1010;//数据不支持
 int MEDIA_ERROR_TIMED_OUT = -110;//数据超时
-
