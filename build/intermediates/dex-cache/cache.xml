@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fd24234f3194a01c28bf92b9756f16082954d5f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_586798e59856239df2881788d9c7280fe4cabaee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\libs\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_3ccea9c331910e95dd0eb691ead1669f328dc3eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\45b689b10c9954814bb5e364e9633dac5ccaf531\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_e07c0cdb0d5feb5aef8e7d4aa776a1166efbe8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\jjdxm-ijkplayer\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d498a23bfe9422826688ab4bd863105cc10def">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_cc690583fd9c8fe3ec990aca590af0ca3cf881cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fe48cff8e69654bd53a2c1b33bcde93d1791217f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_0f975eb7964e479d3c3085f5d2c8098dc1b4d082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\827213d32bf78b94ea874e46e2de7c83a30693ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a13789ec9e884e49740bb970550fabcb340466c1">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_461c719564fcfd5eb9b68885aca8f5d643804bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\226f8b20d8259ec9546c2cc7e98d4f4dd329c24c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="883eb9c3bde63636505e42fc6cad790f4739b0d3">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_5af2d7e3d30ca10bfde7a192b91f95c5bf000643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fe48cff8e69654bd53a2c1b33bcde93d1791217f\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_8b2057573302033b3ce523d00e3bf111e8b1213c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\660e467ad47c6bcd964c2a45a8aaf64bcfd67405\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\classes_1166ac3646f4f4f4057e93534354e1cdeb8dd7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_f7486936d20fe5cecace9f191cb695dc35bd15ff.jar" />
+    </item>
+
+</items>

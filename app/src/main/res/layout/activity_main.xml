@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.dou361.jjdxm_ijkplayer.MainActivity">
+
+    <EditText
+        android:id="@+id/cag_addr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="42.123.110.62" />
+
+    <EditText
+        android:id="@+id/cag_port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2080" />
+
+    <EditText
+        android:id="@+id/did"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="86000123456884846111000129211111" />
+    <Button
+        android:id="@+id/btn_h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="直播（主码流）"/>
+
+    <Button
+        android:id="@+id/btn_v"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="直播（子码流）"/>
+
+    <EditText
+        android:id="@+id/vod_url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="http://42.123.110.60:8088/vod.mp4" />
+
+    <Button
+        android:id="@+id/btn_vod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点播"/>
+
+    <TextView
+        android:id="@+id/btn_origin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="仅用于丹舟内部测试，不可外传！ 2017.04"/>
+</LinearLayout>

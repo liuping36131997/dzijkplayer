@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:10:5-43:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Administrator\.android\build-cache\fd24234f3194a01c28bf92b9756f16082954d5f0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\45b689b10c9954814bb5e364e9633dac5ccaf531\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\660e467ad47c6bcd964c2a45a8aaf64bcfd67405\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\.android\build-cache\fe48cff8e69654bd53a2c1b33bcde93d1791217f\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.dou361.jjdxm_ijkplayer.MainActivity
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:16:19-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.dou361.jjdxm_ijkplayer.PlayerLiveActivity
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:23:9-26:46
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:25:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:24:13-73
+activity#com.dou361.jjdxm_ijkplayer.HPlayerActivity
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:27:9-31:46
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:29:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:28:13-70
+activity#com.dou361.jjdxm_ijkplayer.OriginPlayerActivity
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:33:9-36:46
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:34:13-75
+activity#com.dou361.jjdxm_ijkplayer.PlayerActivity
+ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:38:9-41:46
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml:39:13-69
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [jjdxm_ijkplayer-master:jjdxm-ijkplayer:unspecified] C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\jjdxm-ijkplayer\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.6.0] C:\Users\Administrator\.android\build-cache\827213d32bf78b94ea874e46e2de7c83a30693ca\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.6.0] C:\Users\Administrator\.android\build-cache\226f8b20d8259ec9546c2cc7e98d4f4dd329c24c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Administrator\.android\build-cache\fd24234f3194a01c28bf92b9756f16082954d5f0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\45b689b10c9954814bb5e364e9633dac5ccaf531\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\660e467ad47c6bcd964c2a45a8aaf64bcfd67405\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\.android\build-cache\fe48cff8e69654bd53a2c1b33bcde93d1791217f\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Administrator\.android\build-cache\fd24234f3194a01c28bf92b9756f16082954d5f0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\jjdxm_ijkplayer-master\app\src\main\AndroidManifest.xml
